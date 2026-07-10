@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "mr-Meeseeks:lib"
+
+    - path: "./test"
+      component: "mr-Meeseeks:test:mr-Meeseeks-test"
